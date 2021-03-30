@@ -1,2 +1,2 @@
 The related content with # conditional_pooling will be uploaded sooner...
-Thnaks for your patience.
+Thanks for your patience.
