@@ -9,6 +9,11 @@ Comparison of avg. and max-pooling with Conditional-Pooling, which generates out
 
 __Why Conditional-Pooling is important in the context of deep learning and pattern recognition?__ Conditional-Pooling is vital in deep learning and pattern recognition due to its unique ability to adaptively enhance feature extraction. This innovation is crucial as it significantly improves the representation of complex visual data, making it more effective in tasks involving intricate patterns, noise, and variability. By addressing the limitations of traditional pooling methods, Conditional-Pooling empowers deep learning models to achieve higher accuracy and robustness in tasks like image classification, object detection, and more. Its importance lies in its capacity to elevate the performance of neural networks in real-world scenarios where data can be challenging and diverse.
 
+__The Algorithm of Conditional-Pooling is as follows:__
+
+![Screenshot 2023-09-14 at 12-19-14 Pattern_Recognition](https://github.com/bayraktare/conditional_pooling/assets/17570285/4c21ff79-9a78-4868-a7c8-35e3265ce40b)
+
+
 ## Getting Started
 __Installation Instructions for Conditional-Pooling__
 Conditional-Pooling can be easily set up and used in your own projects with the following steps:
