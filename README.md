@@ -67,9 +67,11 @@ If you find this code or paper useful please cite as:
       author    = {Ertugrul Bayraktar and Cihat Bora Yigit},
       title     = {Conditional-Pooling for Improved Data Transmission},
       journal   = {Pattern Recognition},
-      year      = {Year},
-      note      = {Accepted},
-      doi       = {DOI},
+      year      = {2023},
+      pages     = {109978},
+      url       = {https://www.sciencedirect.com/science/article/pii/S0031320323006763},
+      doi       = {[DOI](https://doi.org/10.1016/j.patcog.2023.109978)https://doi.org/10.1016/j.patcog.2023.109978},
+      issn      = {0031-3203}
     }
 
   
