@@ -61,7 +61,7 @@ __Code Examples:__
 
 We have included code examples of Conditional-Pooling for different tasks, such as image classification and object detection, in the repository. You can find these examples in the examples directory. These examples demonstrate how to integrate Conditional-Pooling into various deep learning tasks to enhance feature representation and discrimination.
 
-If you find this code or paper useful please cite as:
+If you find this code or paper useful, please cite as:
 
     @article{bayraktar-yigit-conditional-pooling,
       author    = {Ertugrul Bayraktar and Cihat Bora Yigit},
@@ -70,7 +70,7 @@ If you find this code or paper useful please cite as:
       year      = {2023},
       pages     = {109978},
       url       = {https://www.sciencedirect.com/science/article/pii/S0031320323006763},
-      doi       = {[DOI](https://doi.org/10.1016/j.patcog.2023.109978)https://doi.org/10.1016/j.patcog.2023.109978},
+      doi       = {https://doi.org/10.1016/j.patcog.2023.109978},
       issn      = {0031-3203}
     }
 
